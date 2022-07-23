@@ -1,0 +1,7 @@
+﻿namespace PlaXBackEnd.Models
+{
+  public class AuthenticatedResponse
+  {
+    public string? Token { get; set; }
+  }
+}
